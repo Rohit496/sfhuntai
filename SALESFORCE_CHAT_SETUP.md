@@ -114,3 +114,4 @@ If the widget is working but direct API calls aren't, consider:
 2. Creating a Next.js API route that proxies requests with proper auth
 3. Checking Salesforce documentation for the latest API requirements
 
+
