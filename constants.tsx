@@ -29,7 +29,7 @@ export const COMPANY_CONFIG = {
   nameShort: 'TroopAi',
   tagline: 'AI-Powered Salesforce Solutions',
   description: 'Providing modern businesses with world-class, AI-driven Salesforce implementation and consulting services.',
-  logoText: 'T', // Single character for logo
+  logoText: 'R', // Single character for logo
   
   // Contact Information
   contact: {
