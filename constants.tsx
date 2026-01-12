@@ -25,7 +25,7 @@ import { Service, NavItem, Testimonial, TeamMember, BlogPost, FAQItem } from './
 
 export const COMPANY_CONFIG = {
   // Company Information
-  name: 'SalesforceTroopAi',
+  name: 'SalesforceHuntAi',
   nameShort: 'TroopAi',
   tagline: 'AI-Powered Salesforce Solutions',
   description: 'Providing modern businesses with world-class, AI-driven Salesforce implementation and consulting services.',
@@ -69,8 +69,8 @@ export const COMPANY_CONFIG = {
   
   // Site Metadata
   site: {
-    url: 'https://sfai.netlify.app',
-    defaultTitle: 'SalesforceTroopAi | AI-Powered Salesforce Solutions',
+    url: 'https://salesforcehuntai.netlify.app',
+    defaultTitle: 'SalesforceHuntAi | AI-Powered Salesforce Solutions',
     defaultDescription: 'Transform your business with AI-powered Salesforce solutions. Get 30% more productivity and 2X ROI with our expert implementation.',
   },
   
