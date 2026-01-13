@@ -32,7 +32,7 @@ export default function ChatWidget() {
                 embeddedservice_bootstrap.init(
                     '00Dfj00000H8mgu',
                     'SalesforceHunt_AI_Web',
-                    'https://orgfarm-f0220c6ac3-dev-ed.develop.my.site.com/ESWSalesforceHuntAIWeb1768229073523'',
+                    'https://orgfarm-f0220c6ac3-dev-ed.develop.my.site.com/ESWSalesforceHuntAIWeb1768229073523',
                     {
                         scrt2URL: 'https://orgfarm-f0220c6ac3-dev-ed.develop.my.salesforce-scrt.com'
                     }
