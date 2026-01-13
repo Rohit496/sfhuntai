@@ -46,7 +46,7 @@ export default function ChatWidget() {
       />
 
       <Script
-        src="https://orgfarm-f0220c6ac3-dev-ed.develop.my.site.com/ESWSalesforceHuntAIWeb1768229073523/assets/js/bootstrap.min.js' "
+        src="https://orgfarm-f0220c6ac3-dev-ed.develop.my.site.com/ESWSalesforceHuntAIWeb1768229073523/assets/js/bootstrap.min.js"
         strategy="afterInteractive"
         onLoad={() => {
           if (typeof window !== 'undefined' && typeof window.initEmbeddedMessaging === 'function') {
