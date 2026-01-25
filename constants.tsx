@@ -56,7 +56,7 @@ export const COMPANY_CONFIG = {
   
   // Legal & Copyright
   copyright: {
-    year: 2025,
+    year: 2026,
     companyName: 'SalesforceHuntAi',
   },
   
