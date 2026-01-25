@@ -37,7 +37,7 @@ export const COMPANY_CONFIG = {
     phone: '+1 (555) 123-4567',
     businessHours: 'Mon-Fri: 9:00 AM - 6:00 PM EST',
     location: 'Remote-First Team Serving Clients Nationwide',
-    legalEmail: 'legal@SalesforceHuntAi.com',
+    legalEmail: 'legal@salesforcehuntai.com',
     // Form submission - Use one of these simple solutions:
     // Option 1: FormSubmit (easiest) - Just set formAction to: `https://formsubmit.co/${contact.email}`
     // Option 2: Formspree - Sign up at formspree.io and get your form ID
