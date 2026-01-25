@@ -26,14 +26,14 @@ import { Service, NavItem, Testimonial, TeamMember, BlogPost, FAQItem } from './
 export const COMPANY_CONFIG = {
   // Company Information
   name: 'SalesforceHuntAi',
-  nameShort: 'TroopAi',
+  nameShort: 'HuntAi',
   tagline: 'AI-Powered Salesforce Solutions',
   description: 'Providing modern businesses with world-class, AI-driven Salesforce implementation and consulting services.',
   logoText: 'R', // Single character for logo
   
   // Contact Information
   contact: {
-    email: 'info@SalesforceHuntAi.com',
+    email: 'info@salesforcehuntai.com',
     phone: '+1 (555) 123-4567',
     businessHours: 'Mon-Fri: 9:00 AM - 6:00 PM EST',
     location: 'Remote-First Team Serving Clients Nationwide',
@@ -48,9 +48,9 @@ export const COMPANY_CONFIG = {
   
   // Social Media Links
   social: {
-    linkedin: 'https://www.linkedin.com/company/salesforce-troop',
-    twitter: 'https://twitter.com/karkra_nikhil',
-    youtube: 'https://www.youtube.com/@salesforcetroop',
+    linkedin: 'https://www.linkedin.com/in/cloudyrohit',
+    twitter: 'https://x.com/RohitGu83309245',
+    youtube: 'https://www.youtube.com/@SalesforceHunt',
     // Add more social platforms as needed
   },
   
